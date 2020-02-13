@@ -1,8 +1,8 @@
 @font-face {
     font-family: Prompt;
-    src: url(/Homework/Homepage/Font/Prompt/Prompt-Light.ttf);
+    src: url(/Homepage/Font/Prompt/Prompt-Light.ttf);
     font-family: Prompt-extralight;
-    src: url(/Homework/Homepage/Font/Prompt/Prompt-ExtraLight.ttf);
+    src: url(/Homepage/Font/Prompt/Prompt-ExtraLight.ttf);
 }
 
 body {
@@ -11,7 +11,7 @@ body {
     
 }
 
-.bar{
+.nav-bar{
     text-align: center;
     margin-top: 30px;
 }

@@ -1,8 +1,12 @@
 @font-face {
     font-family: Prompt;
-    src: url(/Homework/Homepage/Font/Prompt/Prompt-Light.ttf);
+    src: url(/Homepage/Font/Prompt/Prompt-Light.ttf);
     font-family: Prompt-extralight;
-    src: url(/Homework/Homepage/Font/Prompt/Prompt-ExtraLight.ttf);
+    src: url(/Homepage/Font/Prompt/Prompt-ExtraLight.ttf);
+}
+
+* {
+    box-sizing: border-box;
 }
 
 body {
@@ -11,8 +15,13 @@ body {
     
 }
 
-.bar{
+.container {
+    display: block;
+}
+
+.nav-bar {
     text-align: center;
+    width: 100%;
     margin-top: 30px;
 }
 
@@ -31,9 +40,6 @@ body {
     color: white;
     width: auto;
     margin-top: 250px;
-    /* margin-left: 100px;
-    padding-left: 20px;
-    border-left: 2px solid rgb(120, 120, 120); */
     text-align: center;
     line-height: 2;
 }
