@@ -1,8 +1,8 @@
 @font-face {
     font-family: Prompt;
-    src: url(./Prompt-Light.ttf);
+    src: url(./fonts/Prompt-Light.ttf);
     font-family: Prompt-extralight;
-    src: url(./Prompt-ExtraLight.ttf);
+    src: url(./fonts/Prompt-ExtraLight.ttf);
 }
 
 body {
