@@ -1,0 +1,33 @@
+body {
+    font-family: Prompt, sans-serif;
+    background-color: rgba(30, 30, 30, 1);
+    
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 30%;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+th {
+      background-color: #dddddd;
+      text-align: center;
+  }
+
+td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+  }
+  
+tr {
+    background-color: white;
+}
